@@ -7,7 +7,7 @@ class App(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("Товары")
+        self.setWindowTitle("CRUD: Товары")
 
         layout = QVBoxLayout()
 
